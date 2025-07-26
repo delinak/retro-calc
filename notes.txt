@@ -1,0 +1,8 @@
+# make kubernetes controller, that gives an AIP endpoint with custom resource, put all requests to make an api call for you
+
+
+1. add () expressions
+2. back button, delete the last val
+3. save history
+4. automatic calculation after last number
+5. automatci clear
